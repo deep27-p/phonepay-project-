@@ -162,4 +162,4 @@ This project successfully demonstrates how **Streamlit + Plotly** can be used to
 It can easily be extended to real-world PhonePe data, providing businesses and analysts with powerful tools for **decision-making and regional analysis**.
 ▶️ How to Run the PhonePe Transaction Insight Dashboard
 Launch the Streamlit Dashboard
-Run the app using: bash streamlit run pho.py 🌐 Open your browser and go to:  http://localhost:8501/
+Run the app using: bash streamlit run phonepa.py 🌐 Open your browser and go to:  http://localhost:8501/
